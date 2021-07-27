@@ -1,6 +1,6 @@
 # Image classification model using FastAI
 
-##  Data extraction-> Training -> Evaluation-> Front end in Flask -> Containerization using Dockers -> Deployment using Kubernetes
+##  Data extraction-> Training -> Evaluation-> Front end in Flask ->  Dockers -> Kubernetes
 
 ## Aim
 
