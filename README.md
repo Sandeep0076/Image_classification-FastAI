@@ -15,7 +15,7 @@ For this, I created a image classification model from scratch
 
 Steps performed:
 
-* Downloaded image of 4 different anime protagonist(200 for each categories) and created a custom dataset.
+* Created a web api and extracted image of 4 different anime protagonist(200 for each categories) from internet and created a custom dataset.
 * Augmented the image to increase the size of the training set without acquiring new images.
 * Used pre-trained ResNet18 Convolutional Neural Net model, and use transfer learning.
 * Trained the model using Fast AI and hypertuned it.
