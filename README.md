@@ -11,7 +11,7 @@ I will be deploying standard techniques taught in the fast.ai  to see how well t
 
 To build and deploy a web application where an image of anime character is entered into a web-based form which then identifies the name.
 
-For this, I created a image classification model from scratch and used Kubernetes for automating computer application deployment, scaling, and management.
+For this, I created a image classification model from scratch
 
 Steps performed:
 
